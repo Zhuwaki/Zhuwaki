@@ -1,4 +1,11 @@
-### Hi there 👋
+
+Hello 👋
+
+Delighted to have you on my blog !
+
+I enjoying thinking about technology and urbanisation. Often, I come here to condense my urban experiences. 
+
+I am currently working with GoMetro deploying transport technology solutions and using data to design cool stuff helping cities solve complex urban transport problems.
 
 <!--
 **Zhuwaki/Zhuwaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,9 +1,9 @@
 
 Hello 👋
 
-Delighted to have you on my blog !
+Delighted to have you here !
 
-I enjoying thinking about technology and urbanisation. Often, I come here to condense my urban experiences. 
+I am an Engineer and Creative Designer working with urban technology
 
 I am currently working with GoMetro deploying transport technology solutions and using data to design cool stuff helping cities solve complex urban transport problems.
 

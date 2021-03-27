@@ -5,7 +5,6 @@ Delighted to have you here !
 
 I am an Engineer and Creative Designer working with urban technology
 
-I am currently working with GoMetro deploying transport technology solutions and using data to design cool stuff helping cities solve complex urban transport problems.
 
 <!--
 **Zhuwaki/Zhuwaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
